@@ -1,5 +1,4 @@
 # DAFair
-More details will be aded soon..
 
 
 you can access and download data folder at:
